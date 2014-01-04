@@ -1,5 +1,5 @@
-Concurrency and communication
-=============================
+Concurrency and Communication (Java)
+====================================
 
 This project is the simulation of a theoretical situation described below.   
 Case study: N people are sharing a virtual photo album. To have access to the album, one needs to have access to the KEY. The key is shared as well. The goal is to make the N machines (or threads...) communicate, and to control concurrency between users to obtain key, modify album and give back key.  
